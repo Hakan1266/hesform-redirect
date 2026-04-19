@@ -3,6 +3,7 @@
     { "source": "/shop", "destination": "https://shopier.com/hesform", "permanent": true },
     { "source": "/insta", "destination": "https://instagram.com/hesform", "permanent": true },
     { "source": "/tiktok", "destination": "https://tiktok.com/@hesform", "permanent": true },
-    { "source": "/fb", "destination": "https://facebook.com/hesform", "permanent": true }
+    { "source": "/fb", "destination": "https://facebook.com/hesform", "permanent": true },
+    { "source": "/wp", "destination": "https://wa.me/905xxxxxxxxx", "permanent": true }
   ]
 }
